@@ -1,4 +1,4 @@
-# Fine Tuning Lab (From ML Engineer Associate Course...)
+# Fine Tuning Lab - From ML Engineer Associate Course
 
 ## Train a Model with Amazon SageMaker  
 **SPL-TF-300-MLMLMD-1 - Version 1.0.5**  
